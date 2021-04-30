@@ -17,7 +17,8 @@
 }
 
 body {
-  background-image: url("/images/bg-desktop.svg");
+  /* background-image: url("/images/bg-desktop.svg"); */
+  background-image: url("../images/bg-desktop.svg");  /* This is the correct file-path */
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
